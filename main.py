@@ -1,5 +1,5 @@
-// My first github commit. 
-// Let's see where this takes us
+# My first github commit.
+# Lets see where this takes us
 
 hellopy = "Hello Github!"
 print(hellopy)
